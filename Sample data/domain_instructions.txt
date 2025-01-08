@@ -1,0 +1,7 @@
+- Focus on providing a concise overview of key principles of generative grammar.
+- Present the information in a clear, list-like format. Make sure the list is well structured and logical
+- Include only a high level categorization, with no in depth explanations
+- Exclude detailed examples, historical background, or speculative content.
+- Use bullet points or numbered lists to organize the summary for readability.
+- Do not include unrelated linguistic concepts or theories outside of generative grammar.
+- Assume the reader already knows what Generative Grammar is, do not include background information or general descriptions.
